@@ -1,0 +1,74 @@
+{
+    "scripts": [
+        {
+            "name": "Infinite Yield",
+            "author": "EdgeIY",
+            "image": "https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/5/6/6/0/566055948f99263a75befb924019877d1f1d1fb3.jpeg",
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/refs/heads/master/source'))()",
+            "tags": [ "admin", "esp", "highlights", "bang", "troll", "noclip", "fly" ]
+        },
+        {
+            "name": "KeyStrokes",
+            "author": "Marcel46509",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Pyrkon_2022_-_White_furry.jpg/1200px-Pyrkon_2022_-_White_furry.jpg",
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Marcel46509/Scripts/refs/heads/main/KeyStrokes.luau'))()",
+            "tags": [ "keystrokes", "key" ]
+        },
+        {
+            "name": "Unnamed-ESP",
+            "author": "ic3w0lf22",
+            "image": "https://rscripts.net/assets/scripts/643dc3a584067_maxresdefault.jpg.webp",
+            "source": "pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))() end)",
+            "tags": [ "esp", "tracer" ]
+        },
+        {
+            "name": "Reviz Admin",
+            "author": "illremember",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZL9e45LAPuSLcHkpodLWQgcZv5eRPAp6og&s",
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Pa1ntex/reviz-admin-v2-script-FE/refs/heads/main/Reviz%20admin%20v2%20FE'))()",
+            "tags": [ "admin", "troll", "noclip" ]
+        },
+        {
+            "name": "Owl Hub",
+            "author": "CriShoux",
+            "image": "",
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt'))()",
+            "tags": [ "esp", "aim", "hub" ]
+        },
+        {
+            "name": "Awesome Explorer",
+            "author": "Light Devs, Arson",
+            "image": "",
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Marcel46509/Scripts/refs/heads/main/Awesome%20Explorer%20BETA%206.3.0.txt'))()",
+            "tags": [ "dex", "dark", "explorer" ]
+        },
+        {
+            "name": "Cobalt",
+            "author": "notpoiu",
+            "image": "https://raw.githubusercontent.com/Marcel46509/Asteroid-X-5/refs/heads/main/images/cobalt.png",
+            "source": "pcall(function() loadstring(game:HttpGet('https://github.com/notpoiu/cobalt/releases/latest/download/Cobalt.luau'))() end)",
+            "tags": [ "remote", "spy", "event", "remote spy", "remotespy" ]
+        },
+        {
+            "name": "sUNC - Execution Test",
+            "author": "CfmanSal",
+            "image": "",
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/HummingBird8/HummingRn/main/sUNCTestGET'))()",
+            "tags": [ "unc", "sunc", "test" ]
+        },
+        {
+            "name": "[MM2] Vertex",
+            "author": "vertex-peak",
+            "image": "https://cheater.fun/uploads/posts/2024-11/vertex-script-mm2.webp",
+            "source": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring'))()",
+            "tags": [ "murder mystery 2" ]
+        },
+        {
+            "name": "FPS Gui 1.0",
+            "author": "",
+            "image": "",
+            "source": "pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/Marcel46509/Scripts/refs/heads/main/fpsguiv2.0'))() end)",
+            "tags": [ "aim", "esp", "chams" ]
+        }
+    ]
+}
